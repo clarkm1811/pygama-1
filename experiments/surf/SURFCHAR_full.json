@@ -10,7 +10,7 @@
   
   "tier_dirs" : ["raw","dsp","hit"],
   "subsystems" : [""],
-  "run_types" : ["24239", "24240", "9tmpskip"],
+  "run_types" : ["24239", "24240"],
   "evt_dirs" : [""],
   
   "unique_key" : "surf-{cycle}",

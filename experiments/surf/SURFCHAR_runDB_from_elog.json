@@ -1,0 +1,46 @@
+{
+    "elog-number": ["1","2"],
+    "1":
+    {
+	"det-type": "ortec-icpc",
+	"det-id": "",
+	"digitizer": "flashcam",
+	"channel": "",
+	"measurement": "",
+	"source": "",
+	"source-id": "",
+	"collimation": "",
+	"scan-type": "",
+	"initial-step": "",
+	"step-size": "",
+	"step-number": "",
+	"runs-per-step": "",
+	"run-range": "",
+	"run-length": "",
+	"calibration": "",
+
+    }
+  "2":
+    {
+	"det-type": "ortec-icpc",
+	"det-id": "",
+	"digitizer": "flashcam",
+	"channel": "",
+	"measurement": "",
+	"source": "",
+	"source-id": "",
+	"collimation": "",
+	"scan-type": "",
+	"initial-step": "",
+	"step-size": "",
+	"step-number": "",
+	"runs-per-step": "",
+	"run-range": "",
+	"run-length": "",
+	"calibration": "",
+
+    }
+
+}
+
+
