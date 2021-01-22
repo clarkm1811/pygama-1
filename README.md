@@ -9,12 +9,4 @@ $ pip install -e pygama
 ```
 Uninstall: `pip uninstall pygama`
 
-Temporary note: Between the first and second commands, you may need to do:
-```
-cd pygama
-git submodule update --init --recursive
-cd ..
-```
-
-NOTE: temporary pygama to-do
-https://docs.google.com/document/d/1ecOSJbIfC8p4OtYX3IngcsMnGxi7kOgaPVxwUFVHxGE/edit?usp=sharing
+To run pygama at NERSC (and set up JupyterHub), we have additional instructions [at this link](https://github.com/legend-exp/legend/wiki/Computing-Resources-at-NERSC#configuring-jupyter--nersc).
